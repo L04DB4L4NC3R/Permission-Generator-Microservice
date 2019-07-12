@@ -14,7 +14,7 @@
   "author": "Abhishek Kushwaha",
   "license": "Apache-2.0",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^2.6.2",
     "express": "^4.16.4",
     "html-pdf": "^2.2.0",
     "body-parser": "latest"
